@@ -52,11 +52,11 @@ The database MySQL is used to store the tasks and the completion status.
 ## How to Run??
 1. Install NodeJS
 2. Go to the project folder directory and open the terminal (preferably gitbash).
-3. Type "npm install" in your terminal to install the required npm dependencies and libraries such as               
-*In backend folder,
+3. Type "npm install" in your terminal to install the required npm dependencies and libraries such as
+* In backend folder,
    * npm install mysql express
-   * npm i cors                         
-*In frontend folder,
+   * npm i cors      
+* In frontend folder,
    * npm install bootstrap
    * npm install axios
    * npm install react-router-dom
