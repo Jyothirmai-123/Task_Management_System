@@ -63,9 +63,9 @@ The database MySQL is used to store the tasks and the completion status.
 * npm install popper.js
 * npm install jquery
 5. To access the project,
-+ In the backend directory(cd backend), run "node server.js" to start the Node.js server, ensuring no errors in the terminal.
-+ Open a new terminal, navigate to the frontend directory(cd frontend), and run "npm start" to launch the React application.
-+ Confirm Apache and MySQL are running in XAMPP.
+- In the backend directory(cd backend), run "node server.js" to start the Node.js server, ensuring no errors in the terminal.
+- Open a new terminal, navigate to the frontend directory(cd frontend), and run "npm start" to launch the React application.
+- Confirm Apache and MySQL are running in XAMPP.
 Note: Make sure that both the frontend and backend are running simultaneously for accessing the project.
 6. Finally, you can see your project runs in the browser. Manually, you can access the project at http://localhost:3000/ for frontend development.
    
