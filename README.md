@@ -15,10 +15,10 @@ ExpressJS is used to handle a variety of different HTTP demands.
 The database MySQL is used to store the tasks and the completion status.
 
 ## Task Operations:
-1.Create new tasks with a specified name.
-2.View a list of tasks with details such as task name and completion status.
-3.Update task details, including the task name and completion status.
-4.Delete tasks to remove them from the database.
+1. Create new tasks with a specified name.
+2. View a list of tasks with details such as task name and completion status.
+3. Update task details, including the task name and completion status.
+4. Delete tasks to remove them from the database.
 
 ## Screencaps
 
