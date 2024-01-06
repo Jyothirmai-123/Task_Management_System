@@ -52,7 +52,7 @@ The database MySQL is used to store the tasks and the completion status.
 ## How to Run??
 1. Install NodeJS
 2. Go to the project folder directory and open the terminal (preferably gitbash).
-3. Type "npm install" in your terminal to install the required npm dependencies and libraries such as                    
+3. Type "npm install" in your terminal to install the required npm dependencies and libraries such as               
 In backend folder,
 * npm install mysql express
 * npm i cors                         
@@ -63,9 +63,9 @@ In frontend folder,
 * npm install popper.js
 * npm install jquery
 5. To access the project,
-#^  - In the backend directory(cd backend), run "node server.js" to start the Node.js server, ensuring no errors in the terminal.
-#^  - Open a new terminal, navigate to the frontend directory(cd frontend), and run "npm start" to launch the React application.
-#^  - Confirm Apache and MySQL are running in XAMPP.
+   1. In the backend directory(cd backend), run "node server.js" to start the Node.js server, ensuring no errors in the terminal.
+   2. Open a new terminal, navigate to the frontend directory(cd frontend), and run "npm start" to launch the React application.
+   3. Confirm Apache and MySQL are running in XAMPP.
 Note: Make sure that both the frontend and backend are running simultaneously for accessing the project.
 6. Finally, you can see your project runs in the browser. Manually, you can access the project at http://localhost:3000/ for frontend development.
    
